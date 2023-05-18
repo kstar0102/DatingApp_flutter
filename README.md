@@ -1,10 +1,5 @@
-# Tinder App Flutter
+# Dating App Flutter
 ![HeaderImage](github_images/header.jpeg) 
-
-## Introduction
-This is a demo application built with the goal to learn about Flutter and to create a fun application.
-
-Tested on Android only.
 
 ## Technologies & Architecture
 Flutter, Dart
@@ -78,7 +73,3 @@ Flutter, Dart
 * Setup Firestore
 * Setup Storage
 * Replace the file [google-services.json](android/app/google-services.json)
-
-#### Project
-1. Download and open the project in e.g Android Studio
-2. Connect your Android phone or use the emulator to start the application
