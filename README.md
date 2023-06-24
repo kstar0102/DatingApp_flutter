@@ -72,4 +72,3 @@ Flutter, Dart
 * Setup Authentication and use the Sign-in method 'Email/Password'
 * Setup Firestore
 * Setup Storage
-* Replace the file [google-services.json](android/app/google-services.json)
